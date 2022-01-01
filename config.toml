@@ -1,0 +1,4 @@
+baseURL = 'https://luxn.github.io/'
+languageCode = 'en-us'
+title = 'Luxn Blog'
+theme = 'PaperMod'
